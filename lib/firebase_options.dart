@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBZv-UDkdFfDd4RJIEetWByGYBMwAWYl7w',
+    apiKey: '',
     appId: '1:1018574888679:web:dc8a4de7a99a9b93830c42',
     messagingSenderId: '1018574888679',
     projectId: 'student-scanner-etu',
